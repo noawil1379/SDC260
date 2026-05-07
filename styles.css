@@ -1,13 +1,25 @@
 main {
-  max-width: 960px
-  padding: 20px
-  background-color: white
+  max-width: 960px;
+  padding: 20px;
+  background-color: white;
   box-shadow:
 }
 body {
-
+  margin:
+  padding:
+  border:
 }
 nav {
-  display: flex
+  display: flex;
 
   }
+header {
+  margin:
+  padding:
+  border:
+}
+footer {
+  margin:
+  padding:
+  border:
+}
