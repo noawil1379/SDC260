@@ -1,16 +1,39 @@
 html {
-  background-color:
-  font:
+  background-color: green;
+  font-family: Arial;
+  }
+
+body {
+  color: black;
+  background-color: orange;
   }
 
 header {
+  text-align: center;
+  font-size: 10px;
+  font-weight:
+  padding: 20px;
+  background-color:
 }
 
-nav {
+nav > ul {
+  display: flex; <!-- Aligns items horizontally -->
+  list-style-type: none;
+}
+
+a:hover {
+  background-color: blue;
 }
 
 main {
+  padding: 10px;
+  margin:
+  border:
 }
 
 footer {
+  text-align: center;
+  font-size:
+  color: grey;
+  background-color: yellow;
 }
