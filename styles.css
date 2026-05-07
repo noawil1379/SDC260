@@ -1,12 +1,17 @@
+html {
+  background-color: light gray;
+  font-family: Arial;
+}
+
 main {
   max-width: 960px;
   padding: 20px;
   background-color: white;
-  box-shadow:
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 body {
-  margin:
-  padding:
+  margin: 0;
+  padding: 0;
   border:
 }
 nav {
